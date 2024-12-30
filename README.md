@@ -20,6 +20,8 @@
 ### Skills I’m Learning
 <img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,python,linux,mysql,aws" />
 
+### Tools I’m Using
+<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=7&i=discord,github,notion,obsidian,vscode" />
 <br>
 
 
