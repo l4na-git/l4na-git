@@ -9,6 +9,7 @@
 
 - 🧑‍💻 I'm a vocational school student.
 - 🌱 I’m currently learning python!
+- 🌟 My page: [tagra's page](https://tagra-git.github.io/my-page/index.html)
 <!-- - 📫 How to reach me: [Twitter - @username](https://twitter.com/username) -->
 <br>
 
