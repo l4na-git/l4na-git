@@ -19,10 +19,10 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 ### Skills I’m Learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,python,linux,ubuntu,redhat,mysql,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,nodejs,python,linux,ubuntu,redhat,kali,mysql,aws" />
 
 ### Tools I’m Using
-<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=7&i=discord,github,notion,obsidian,vscode,misskey" />
+<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=7&i=discord,github,cloudflare,notion,obsidian,vscode,misskey" />
 <br>
 
 
