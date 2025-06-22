@@ -10,7 +10,7 @@
 - 🧑‍💻 I'm a vocational school student.
 - 🌱 I’m currently learning python!
 - 🌟 My page: [l4na's page](https://www.l4na.com/index.html)
-<!-- - 📫 How to reach me: [Twitter - @username](https://twitter.com/username) -->
+- 📫 How to reach me: [X - @l4na_7](https://x.com/l4na_7)
 <br>
 
 
@@ -19,10 +19,10 @@
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 ### Skills I’m Learning
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,js,nodejs,python,linux,ubuntu,redhat,kali,mysql,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=7&i=html,css,tailwind,js,nodejs,python,cpp,linux,ubuntu,redhat,kali,docker,mysql,aws" />
 
 ### Tools I’m Using
-<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=7&i=discord,github,cloudflare,notion,obsidian,vscode,misskey" />
+<img alt="my tools" src="https://skillicons.dev/icons?theme=light&perline=7&i=windows,discord,github,cloudflare,postgres,notion,obsidian,vscode,misskey" />
 <br>
 
 
